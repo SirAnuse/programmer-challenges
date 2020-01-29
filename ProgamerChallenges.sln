@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkovChainer", "MarkovChainer\MarkovChainer.csproj", "{1C007CF3-81ED-4B9E-87BF-383031EE3984}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccurenceCounter", "OccurenceCounter\OccurenceCounter.csproj", "{C07E0739-5BCA-4991-BF0F-5206AB97DC8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccurrenceCounter", "OccurrenceCounter\OccurrenceCounter.csproj", "{C07E0739-5BCA-4991-BF0F-5206AB97DC8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 
-namespace OccurenceCounter
+namespace OccurrenceCounter
 {
     internal class Program
     {

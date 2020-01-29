@@ -8,8 +8,8 @@
         <ProjectGuid>{C07E0739-5BCA-4991-BF0F-5206AB97DC8F}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>OccurenceCounter</RootNamespace>
-        <AssemblyName>OccurenceCounter</AssemblyName>
+        <RootNamespace>OccurrenceCounter</RootNamespace>
+        <AssemblyName>OccurrenceCounter</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
