@@ -1,4 +1,4 @@
-# Pro/g/rammer Challenges, v4.0
+# Pro/g/rammer Challenges, v4.0 [![Build Status](https://travis-ci.com/SirAnuse/programmer-challenges.svg?token=nfHDxuGDoRnpuzqzipxu&branch=master)](https://travis-ci.com/SirAnuse/programmer-challenges)
 ![Pro/g/rammer Challenges List](progamerchallenges.png)
 
 # Challenges Completed
