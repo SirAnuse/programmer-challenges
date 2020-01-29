@@ -2,12 +2,15 @@
 ![Pro/g/rammer Challenges List](progamerchallenges.png)
 
 # Challenges Completed
-**Easy:** 1  
+**Easy:** 2  
 **Medium:** 0  
 **Hard:** 0  
 **Fuck You:** 0  
-**Total:** 1
+**Total:** 2
 
 
 ## Practical
 **4.** [Markov Chain Generator](MarkovChainer)
+
+## Algorithmic
+**46.** [Character Occurrence Counter](OccurenceCounter) (C# & Python)
