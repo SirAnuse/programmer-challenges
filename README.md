@@ -2,14 +2,10 @@
 ![Pro/g/rammer Challenges List](progamerchallenges.png)
 
 # Challenges Completed
-**Easy:** 1
-
-**Medium:** 0
-
-**Hard:** 0
-
-**Fuck You:** 0
-
+**Easy:** 1  
+**Medium:** 0  
+**Hard:** 0  
+**Fuck You:** 0  
 **Total:** 1
 
 
