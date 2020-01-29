@@ -2,7 +2,7 @@
 ![Pro/g/rammer Challenges List](progamerchallenges.png)
 
 # Challenges Completed
-Total: 1
+**Total:** 1
 
 ## Practical
-4. [Markov Chain Generator](MarkovChainer)
+**4.** [Markov Chain Generator](MarkovChainer)
