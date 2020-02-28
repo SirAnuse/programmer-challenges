@@ -14,7 +14,11 @@ namespace OccurrenceCounter
             {
                 Console.Write("Please enter a string to count characters in: ");
                 input = Console.ReadLine();
-                if (String
+                if (String.IsNullOrWhiteSpace(input))
+                    Console.WriteLine("Input string cannot be empty.");
+                else
+                    break;
+            }
             
             Dictionary<char, int> dict = new Dictionary<char, int>();
 
